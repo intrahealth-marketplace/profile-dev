@@ -4509,6 +4509,51 @@
       "healthRegion": "AB",
       "modified": "2026-05-15T00:00:00Z",
       "previewImageFilename": "preview.png"
+    },
+    {
+      "folder": "gad-7-anxiety-screening",
+      "objGuid": "A1B2C3D4E5F64A009011223344556677",
+      "displayName": "GAD-7 Anxiety Screening",
+      "language": "en",
+      "healthRegion": null,
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
+      "folder": "patient-intake-form",
+      "objGuid": "B2C3D4E5F6A74B001122334455667788",
+      "displayName": "Patient Intake Form",
+      "language": "en",
+      "healthRegion": null,
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
+      "folder": "vital-signs-check-in",
+      "objGuid": "C3D4E5F6A7B84C002233445566778899",
+      "displayName": "Vital Signs Check-in",
+      "language": "en",
+      "healthRegion": null,
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
+      "folder": "medication-reconciliation",
+      "objGuid": "D4E5F6A7B8C94D003344556677889900",
+      "displayName": "Medication Reconciliation",
+      "language": "en",
+      "healthRegion": null,
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
+      "folder": "telehealth-consent",
+      "objGuid": "E5F6A7B8C9DA4E0044556677889900AA",
+      "displayName": "Telehealth Consent",
+      "language": "en",
+      "healthRegion": null,
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
     }
   ]
 }
