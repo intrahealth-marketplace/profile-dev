@@ -2,7 +2,9 @@
   "objGuid": "47D13BD98FEC3A5CB3FD51FBBD82F1C7",
   "displayName": "Psychiatry Screening 145",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

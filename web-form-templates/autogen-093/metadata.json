@@ -2,7 +2,9 @@
   "objGuid": "5B60F18DF4F8B510F1B49ABC01200F2D",
   "displayName": "Ophthalmology Intake 93",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

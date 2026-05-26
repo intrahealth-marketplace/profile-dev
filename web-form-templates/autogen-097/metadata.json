@@ -2,7 +2,9 @@
   "objGuid": "E46BFC698B232BEAA8F1C21DF05A19DC",
   "displayName": "Oncology Authorization 97",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

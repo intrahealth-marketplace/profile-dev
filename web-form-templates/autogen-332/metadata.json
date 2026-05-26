@@ -2,7 +2,9 @@
   "objGuid": "94A7CB46A7A555BB27D40C298CB4E81B",
   "displayName": "Radiology Referral 332",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

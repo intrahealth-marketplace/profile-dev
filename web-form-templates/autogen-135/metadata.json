@@ -2,7 +2,9 @@
   "objGuid": "CD66F0E252640BCA21A39778E0C3D2DA",
   "displayName": "Psychiatry Consent 135",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "5EACB761ACE17975DE782678AF5D917D",
   "displayName": "Urology Referral 139",
   "language": "fr",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "2E7C363AB78B5EDAE2A019219AE1EEB4",
   "displayName": "Radiology Report 92",
   "language": "fr",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

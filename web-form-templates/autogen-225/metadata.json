@@ -2,7 +2,9 @@
   "objGuid": "80EB9A733E37CA2012711CD17063F88B",
   "displayName": "Cardiology Follow-up 225",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,11 @@
   "objGuid": "8D7E6437219A094B1CDD291962E0A13B",
   "displayName": "ENT History 68",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

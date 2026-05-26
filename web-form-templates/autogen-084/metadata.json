@@ -2,7 +2,9 @@
   "objGuid": "CCD1FE207C6E72FD877412E9DC3EFC05",
   "displayName": "ENT Assessment 84",
   "language": "fr",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

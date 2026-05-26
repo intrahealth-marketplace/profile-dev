@@ -2,7 +2,9 @@
   "objGuid": "7A301F51195FCB365ABF07BABC903DC6",
   "displayName": "ENT Questionnaire 313",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

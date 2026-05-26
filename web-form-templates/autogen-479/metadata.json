@@ -2,7 +2,9 @@
   "objGuid": "48A049C5E1CCEB0E11897BFAA2B3C0CB",
   "displayName": "Urology Report 479",
   "language": "fr",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

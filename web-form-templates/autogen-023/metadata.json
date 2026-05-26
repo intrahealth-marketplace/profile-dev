@@ -2,7 +2,11 @@
   "objGuid": "25EBEF82FC0DD896006BD409EB003700",
   "displayName": "Ophthalmology Authorization 23",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

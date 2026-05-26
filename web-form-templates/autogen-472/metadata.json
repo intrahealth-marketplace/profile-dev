@@ -2,7 +2,11 @@
   "objGuid": "90A1974E91594DE8239D7AB605661F91",
   "displayName": "Orthopedics Follow-up 472",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

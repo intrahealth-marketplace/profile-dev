@@ -2,7 +2,11 @@
   "objGuid": "5127E52D54E3ADC266FF8FE8ACF3EE2F",
   "displayName": "Endocrinology History 64",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

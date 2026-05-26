@@ -2,7 +2,9 @@
   "objGuid": "ADF50A3EE45B92CC7FC7FDFB8963A5D1",
   "displayName": "Oncology History 395",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

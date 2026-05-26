@@ -2,7 +2,9 @@
   "objGuid": "277E87B240661CEDB9A8E7BD97371CB0",
   "displayName": "ENT Assessment 131",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

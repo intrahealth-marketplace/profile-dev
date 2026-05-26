@@ -2,7 +2,11 @@
   "objGuid": "0A0A3FD86773E17F99DB7A0DD5B58FCE",
   "displayName": "Family Practice Checklist 481",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

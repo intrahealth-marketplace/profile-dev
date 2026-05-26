@@ -2,7 +2,11 @@
   "objGuid": "7E8019E251C875ED794988D8FC0F08C5",
   "displayName": "Dermatology Examination 362",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

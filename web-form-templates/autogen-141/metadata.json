@@ -2,7 +2,9 @@
   "objGuid": "82048B577F8AF22C8DEA9C68DFC7258B",
   "displayName": "Urology Questionnaire 141",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

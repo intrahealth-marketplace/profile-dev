@@ -2,7 +2,9 @@
   "objGuid": "A995004635F5B8798474AA7E62C6C726",
   "displayName": "Neurology Examination 248",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

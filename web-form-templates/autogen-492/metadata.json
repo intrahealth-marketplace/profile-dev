@@ -2,7 +2,9 @@
   "objGuid": "CD85B501E4B04044792BAEF73255ED14",
   "displayName": "Gynecology Consent 492",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

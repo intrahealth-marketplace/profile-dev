@@ -2,7 +2,9 @@
   "objGuid": "A2A23946306F272F87AE9EBD3967BFAE",
   "displayName": "Gynecology Order 443",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

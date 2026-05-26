@@ -2,7 +2,11 @@
   "objGuid": "76EE246C7C65B7ED432CC1F2C288B68B",
   "displayName": "Gynecology History 217",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

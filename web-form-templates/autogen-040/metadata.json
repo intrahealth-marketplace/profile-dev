@@ -2,7 +2,9 @@
   "objGuid": "E8F5F4738CC49AF80AF0B5431A74A130",
   "displayName": "Oncology Discharge 40",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

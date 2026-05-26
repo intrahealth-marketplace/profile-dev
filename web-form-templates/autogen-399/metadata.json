@@ -2,7 +2,9 @@
   "objGuid": "205B154E6B1EC8F5B55D3690640DF085",
   "displayName": "Family Practice Examination 399",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

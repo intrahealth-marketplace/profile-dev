@@ -2,7 +2,9 @@
   "objGuid": "C51CF33AD2C812D35367AE641DD8D924",
   "displayName": "Orthopedics Report 85",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

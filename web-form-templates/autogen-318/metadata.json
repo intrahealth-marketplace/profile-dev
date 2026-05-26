@@ -2,7 +2,9 @@
   "objGuid": "7D3BE072CFADD9B570B3014D7EB8167A",
   "displayName": "Orthopedics History 318",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

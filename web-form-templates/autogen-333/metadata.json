@@ -2,7 +2,9 @@
   "objGuid": "6D709F975F038C97F1F7D93B297AC62B",
   "displayName": "Orthopedics Assessment 333",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

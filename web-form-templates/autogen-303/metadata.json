@@ -2,7 +2,9 @@
   "objGuid": "D00708FCAFA90B51A534A7A092AA2EC9",
   "displayName": "Family Practice Assessment 303",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

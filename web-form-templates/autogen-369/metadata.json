@@ -2,7 +2,9 @@
   "objGuid": "5C5788A012EFC6677B305D99D311E93B",
   "displayName": "Oncology Examination 369",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

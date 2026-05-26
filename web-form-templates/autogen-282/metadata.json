@@ -2,7 +2,9 @@
   "objGuid": "6C396034D11839DD6450428948491903",
   "displayName": "Orthopedics History 282",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "B388C62F8EFE0306752AFB0E4FD9BDEC",
   "displayName": "Radiology Discharge 43",
   "language": "fr",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

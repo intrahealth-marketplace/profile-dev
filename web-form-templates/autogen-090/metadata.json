@@ -2,7 +2,9 @@
   "objGuid": "02D3657A8DE9520C1AA113EDB33A0A4C",
   "displayName": "ENT Consent 90",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

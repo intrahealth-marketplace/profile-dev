@@ -2,7 +2,9 @@
   "objGuid": "98CEB8153D85358C74490ECDD5155BC8",
   "displayName": "Ophthalmology Survey 294",
   "language": "fr",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

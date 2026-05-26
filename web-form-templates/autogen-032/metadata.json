@@ -2,7 +2,9 @@
   "objGuid": "04885648D9A928B38620555A04FCE97E",
   "displayName": "Neurology Report 32",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

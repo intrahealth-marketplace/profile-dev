@@ -2,7 +2,11 @@
   "objGuid": "A596BD994143F573B5C56FF6C3FB0972",
   "displayName": "Dermatology Follow-up 473",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

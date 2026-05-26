@@ -2,7 +2,9 @@
   "objGuid": "0912A7759252D91C62004BA3A4BD352F",
   "displayName": "Gynecology Examination 373",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "8D9A00E759E08150E51A533E3263DDAB",
   "displayName": "Radiology History 278",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

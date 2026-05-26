@@ -2,7 +2,9 @@
   "objGuid": "ED0FA9F7E53741D86831F95F22841AF2",
   "displayName": "Endocrinology Questionnaire 193",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

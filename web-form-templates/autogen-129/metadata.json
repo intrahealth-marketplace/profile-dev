@@ -2,7 +2,9 @@
   "objGuid": "F1442DBBCBB4632639E93A03158AE17B",
   "displayName": "Dermatology History 129",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

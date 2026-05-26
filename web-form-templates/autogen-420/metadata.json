@@ -2,7 +2,9 @@
   "objGuid": "08E58ECA5A16A2FB3AA07FD0BB3B5E6F",
   "displayName": "Endocrinology Screening 420",
   "language": "fr",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

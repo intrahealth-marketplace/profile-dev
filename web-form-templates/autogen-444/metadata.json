@@ -2,7 +2,11 @@
   "objGuid": "3E0D1DC31F3736482DF0454B340A76DD",
   "displayName": "Gastroenterology Checklist 444",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

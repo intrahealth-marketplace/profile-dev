@@ -2,7 +2,9 @@
   "objGuid": "30835E8ADA8BDF94886FAE6A4FEC1263",
   "displayName": "Dermatology Screening 148",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

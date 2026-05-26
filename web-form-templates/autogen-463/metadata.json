@@ -2,7 +2,9 @@
   "objGuid": "1FD68D4A3D57982C03E19E8F23E01955",
   "displayName": "Psychiatry Assessment 463",
   "language": "fr",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

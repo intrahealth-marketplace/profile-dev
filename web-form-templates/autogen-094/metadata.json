@@ -2,7 +2,9 @@
   "objGuid": "C14F6979A5247E5F5E236308E2BB4D91",
   "displayName": "Oncology Checklist 94",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

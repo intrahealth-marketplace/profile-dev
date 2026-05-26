@@ -2,7 +2,9 @@
   "objGuid": "346AC46E7D866E8A219277D1E2DF3E96",
   "displayName": "Oncology Order 6",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

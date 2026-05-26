@@ -2,7 +2,9 @@
   "objGuid": "666B56D7847CA3D26F48D60094132810",
   "displayName": "Neurology Assessment 292",
   "language": "fr",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

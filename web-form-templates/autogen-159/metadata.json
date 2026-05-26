@@ -2,7 +2,9 @@
   "objGuid": "F0EF62E027D182DDFC1E9D787642A06C",
   "displayName": "Ophthalmology Follow-up 159",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

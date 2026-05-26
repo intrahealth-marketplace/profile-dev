@@ -2,7 +2,9 @@
   "objGuid": "940A83547FBE9C821D44B7B733FFA883",
   "displayName": "Endocrinology Examination 341",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

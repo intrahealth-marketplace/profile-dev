@@ -2,7 +2,9 @@
   "objGuid": "9DB39C39B6F4F7DE9BE907C16F824AF2",
   "displayName": "Gastroenterology Survey 300",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

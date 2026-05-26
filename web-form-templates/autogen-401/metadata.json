@@ -2,7 +2,11 @@
   "objGuid": "B3C91B3DD807EFE58FB9BC4586203B84",
   "displayName": "Radiology Order 401",
   "language": "fr",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

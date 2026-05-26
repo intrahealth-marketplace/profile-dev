@@ -2,7 +2,9 @@
   "objGuid": "FFB87CD0455AB30E916225079A694F70",
   "displayName": "Oncology Report 249",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

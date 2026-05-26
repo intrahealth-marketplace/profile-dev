@@ -2,7 +2,9 @@
   "objGuid": "8887BC08829138699BBF5F792847AAD0",
   "displayName": "Oncology Referral 173",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

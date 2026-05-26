@@ -2,7 +2,11 @@
   "objGuid": "DF7A99DD9931E123B785BC64FA098184",
   "displayName": "Radiology Follow-up 216",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "7B1C6B32569ED11B516888006E11DBD7",
   "displayName": "ENT Screening 170",
   "language": "fr",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

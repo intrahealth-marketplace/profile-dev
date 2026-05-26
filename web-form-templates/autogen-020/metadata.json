@@ -2,7 +2,9 @@
   "objGuid": "3FFABF539BF4E6CAA7365F9E057BB4A3",
   "displayName": "Urology Intake 20",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

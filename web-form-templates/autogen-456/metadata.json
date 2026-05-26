@@ -2,7 +2,11 @@
   "objGuid": "DE838D01F6D4450096424982BA32C742",
   "displayName": "Radiology Assessment 456",
   "language": "fr",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

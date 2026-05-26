@@ -2,7 +2,9 @@
   "objGuid": "AAD6110F86E2FB6E050CE81D07F4E387",
   "displayName": "Gynecology Examination 477",
   "language": "fr",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

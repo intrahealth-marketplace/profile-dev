@@ -2,7 +2,9 @@
   "objGuid": "E1C728D9B7AEFE7D3320304BAFB9C5B6",
   "displayName": "Gastroenterology History 353",
   "language": "fr",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

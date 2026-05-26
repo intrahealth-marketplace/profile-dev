@@ -2,7 +2,9 @@
   "objGuid": "80A75F091990EA1B2C221DB6AD079043",
   "displayName": "Gastroenterology Screening 39",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "C19A5B3E5F43D1ABA267948701755118",
   "displayName": "Urology Screening 190",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

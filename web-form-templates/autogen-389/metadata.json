@@ -2,7 +2,9 @@
   "objGuid": "EB87D422C1B2F3E18F38AA755ED131DD",
   "displayName": "Endocrinology Report 389",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

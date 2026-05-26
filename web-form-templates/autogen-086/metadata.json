@@ -2,7 +2,9 @@
   "objGuid": "C9F719C368FCCB870C8C4E7476DB55F9",
   "displayName": "Neurology Consent 86",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

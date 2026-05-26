@@ -2,7 +2,11 @@
   "objGuid": "E5F6A7B8C9DA4E0044556677889900AA",
   "displayName": "Telehealth Consent",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T12:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "EBE291608A810503B8DE4540C9BA66A1",
   "displayName": "Family Practice History 105",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

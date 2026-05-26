@@ -2,7 +2,9 @@
   "objGuid": "6830FF46D56E437E929ED10707D456FC",
   "displayName": "Pediatrics Intake 393",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

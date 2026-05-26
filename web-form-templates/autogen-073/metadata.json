@@ -2,7 +2,9 @@
   "objGuid": "ADDD499E589B4DB40522B297D8A15EAE",
   "displayName": "Neurology Follow-up 73",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

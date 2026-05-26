@@ -2,7 +2,9 @@
   "objGuid": "6DD729143525D14E4921F2B5A80ED085",
   "displayName": "Orthopedics Intake 209",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

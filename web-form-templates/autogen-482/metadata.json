@@ -2,7 +2,9 @@
   "objGuid": "7D4112A8F203536ED04AD657DFEA69FF",
   "displayName": "Gastroenterology Survey 482",
   "language": "fr",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

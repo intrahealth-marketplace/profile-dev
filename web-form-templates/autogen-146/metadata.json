@@ -2,7 +2,9 @@
   "objGuid": "298074F6E1D28F5D6371176C7E2F67D8",
   "displayName": "Cardiology History 146",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

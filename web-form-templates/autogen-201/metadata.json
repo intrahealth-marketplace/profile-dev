@@ -2,7 +2,9 @@
   "objGuid": "EFDE1910B142A98F444C4D6B60C1E681",
   "displayName": "Ophthalmology Referral 201",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

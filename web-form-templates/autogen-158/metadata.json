@@ -2,7 +2,9 @@
   "objGuid": "173C0C8B30520AEDDDDF1C7A9C086142",
   "displayName": "Orthopedics Screening 158",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

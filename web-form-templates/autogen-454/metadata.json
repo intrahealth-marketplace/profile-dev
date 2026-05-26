@@ -2,7 +2,9 @@
   "objGuid": "8112F66D7B88AD087D4C2E9F633DA7CE",
   "displayName": "ENT Follow-up 454",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

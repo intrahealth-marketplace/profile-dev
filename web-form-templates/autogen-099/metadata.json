@@ -2,7 +2,9 @@
   "objGuid": "F909DD3EAFAEDC5517CC8F2A2A024B01",
   "displayName": "Gastroenterology Questionnaire 99",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

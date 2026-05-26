@@ -2,7 +2,11 @@
   "objGuid": "E0A77AB11B3E86B4D1FFEA1C7FDCEBB2",
   "displayName": "Gastroenterology Authorization 289",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

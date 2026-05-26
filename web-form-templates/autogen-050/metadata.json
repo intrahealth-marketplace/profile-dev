@@ -2,7 +2,9 @@
   "objGuid": "4F95973599549E3A75619D136940D9D6",
   "displayName": "Gastroenterology Intake 50",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

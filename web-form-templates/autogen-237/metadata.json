@@ -2,7 +2,9 @@
   "objGuid": "2D7CA3B3C9CD410F5557D2A5ACE736A2",
   "displayName": "Cardiology Authorization 237",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

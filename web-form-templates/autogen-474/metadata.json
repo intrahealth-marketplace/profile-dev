@@ -2,7 +2,11 @@
   "objGuid": "7D8961638C787B3D7C917180720AD63F",
   "displayName": "Oncology Discharge 474",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

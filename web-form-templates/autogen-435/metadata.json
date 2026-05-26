@@ -2,7 +2,9 @@
   "objGuid": "FB69EA00C18D3136B8DFE099619B6B32",
   "displayName": "Psychiatry Report 435",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

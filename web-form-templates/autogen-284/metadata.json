@@ -2,7 +2,9 @@
   "objGuid": "29978BCCB7C7F581B04F05B2573AC0A7",
   "displayName": "Endocrinology Survey 284",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

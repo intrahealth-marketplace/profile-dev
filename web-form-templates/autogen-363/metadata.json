@@ -2,7 +2,9 @@
   "objGuid": "10577C958653C803763AF03D1DD34F43",
   "displayName": "Orthopedics Checklist 363",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

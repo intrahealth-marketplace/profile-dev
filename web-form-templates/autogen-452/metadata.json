@@ -2,7 +2,11 @@
   "objGuid": "FD6567188CF185FA5901C13037E1CA6F",
   "displayName": "Dermatology Assessment 452",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

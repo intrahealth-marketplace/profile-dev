@@ -2,7 +2,9 @@
   "objGuid": "FD2EF056DE60D501532448E53BBFA6E9",
   "displayName": "Endocrinology Referral 223",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

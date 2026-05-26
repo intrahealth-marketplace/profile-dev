@@ -2,7 +2,11 @@
   "objGuid": "5BBB78642BBA5C995F478125A0340F35",
   "displayName": "Urology Survey 2",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

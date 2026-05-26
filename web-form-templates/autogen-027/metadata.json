@@ -2,7 +2,9 @@
   "objGuid": "44454536C7374AEE18608E75DEA4D5B3",
   "displayName": "Gastroenterology Authorization 27",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

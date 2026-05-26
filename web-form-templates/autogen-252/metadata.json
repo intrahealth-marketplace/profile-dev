@@ -2,7 +2,9 @@
   "objGuid": "1F89959904555F5825E2AEF52524C00B",
   "displayName": "Oncology Order 252",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

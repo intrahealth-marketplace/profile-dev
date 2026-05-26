@@ -2,7 +2,9 @@
   "objGuid": "9131F5AE8AB0415D75787EE97A379B05",
   "displayName": "Psychiatry Follow-up 432",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

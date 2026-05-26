@@ -2,7 +2,11 @@
   "objGuid": "81ED7A13B90D6A9018BF1285FF7546EE",
   "displayName": "Cardiology Follow-up 388",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

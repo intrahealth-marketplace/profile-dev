@@ -2,7 +2,9 @@
   "objGuid": "DFE7E047AF899D15A69B68BA23F12FED",
   "displayName": "Dermatology History 455",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

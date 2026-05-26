@@ -2,7 +2,9 @@
   "objGuid": "96AF3847EFA002C2DE23FA67AC4B4D10",
   "displayName": "Pediatrics History 214",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

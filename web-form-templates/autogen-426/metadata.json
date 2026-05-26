@@ -2,7 +2,9 @@
   "objGuid": "A4B723F45D448571802B6A9CB41D0D0C",
   "displayName": "Psychiatry Authorization 426",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

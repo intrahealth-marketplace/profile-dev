@@ -2,7 +2,9 @@
   "objGuid": "D6D9F0D3D4BB946DA5767D03706F3A7F",
   "displayName": "Oncology Intake 357",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

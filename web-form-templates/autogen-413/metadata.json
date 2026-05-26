@@ -2,7 +2,9 @@
   "objGuid": "0C56A424E91B1BFA02412E66A50D34C1",
   "displayName": "Ophthalmology Referral 413",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

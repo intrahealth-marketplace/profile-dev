@@ -2,7 +2,9 @@
   "objGuid": "F35E2E9DE6D8012DCB2F601A919C8EAC",
   "displayName": "Ophthalmology Screening 38",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "CD14CCEF848F8314B426414EBF783787",
   "displayName": "Ophthalmology Assessment 198",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

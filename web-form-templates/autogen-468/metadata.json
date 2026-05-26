@@ -2,7 +2,9 @@
   "objGuid": "29F9F65AC9FEE54036DA3D5F3CFB80C9",
   "displayName": "Oncology Referral 468",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

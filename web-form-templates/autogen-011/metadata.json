@@ -2,7 +2,9 @@
   "objGuid": "3D514FA2B56707E00E619F78C3A5D58B",
   "displayName": "Radiology Order 11",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

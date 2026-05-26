@@ -2,7 +2,9 @@
   "objGuid": "A5B8EFF8CEA683D4C85B0FAB2B002EEE",
   "displayName": "Psychiatry Checklist 340",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

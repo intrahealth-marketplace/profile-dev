@@ -2,7 +2,9 @@
   "objGuid": "8960433E6310E915A380C7AAC8D474BF",
   "displayName": "Ophthalmology Assessment 331",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "52949732942F5ED01E2A82BACB4E0ED7",
   "displayName": "Gynecology Discharge 396",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

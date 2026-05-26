@@ -2,7 +2,9 @@
   "objGuid": "9515ECD1FA9886EF10EB2E4DEDC8E75F",
   "displayName": "Psychiatry Assessment 128",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

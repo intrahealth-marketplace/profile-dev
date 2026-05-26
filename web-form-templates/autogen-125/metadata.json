@@ -2,7 +2,9 @@
   "objGuid": "31BE61E5E9E833610F7338D5CB31F9E7",
   "displayName": "Neurology Checklist 125",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

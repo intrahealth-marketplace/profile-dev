@@ -2,7 +2,9 @@
   "objGuid": "C3FA5C75C55B0EDD0819B99551FA54FF",
   "displayName": "Cardiology Discharge 415",
   "language": "fr",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

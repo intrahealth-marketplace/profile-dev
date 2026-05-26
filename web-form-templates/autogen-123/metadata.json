@@ -2,7 +2,9 @@
   "objGuid": "02781E2B23EDF3D44BEF8B66A8EC03EA",
   "displayName": "Oncology Assessment 123",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

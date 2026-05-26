@@ -2,7 +2,9 @@
   "objGuid": "F58395487E65BFA4D451A8A8B4EF6915",
   "displayName": "Oncology Order 409",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "68D6D89EDCDA169148F510C80C0668AB",
   "displayName": "Cardiology Questionnaire 460",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

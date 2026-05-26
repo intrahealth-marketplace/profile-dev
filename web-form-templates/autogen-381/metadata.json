@@ -2,7 +2,11 @@
   "objGuid": "58B1594B5F93876A1C7CB3CFC221E54C",
   "displayName": "ENT Screening 381",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "6F088358D2DE6DB3689772F68BC4E386",
   "displayName": "Pediatrics Assessment 431",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

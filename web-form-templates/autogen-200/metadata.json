@@ -2,7 +2,11 @@
   "objGuid": "AFA67309FE192F3CE0BC0AAE71FDCD10",
   "displayName": "Oncology Report 200",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

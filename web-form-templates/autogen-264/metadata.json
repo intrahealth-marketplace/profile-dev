@@ -2,7 +2,11 @@
   "objGuid": "C6B506696CE136B3E928AD06F100ECDE",
   "displayName": "Psychiatry Intake 264",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

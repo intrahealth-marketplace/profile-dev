@@ -2,7 +2,9 @@
   "objGuid": "2ECD5D48F8C4B1556E37DA68D5883812",
   "displayName": "Neurology Authorization 279",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

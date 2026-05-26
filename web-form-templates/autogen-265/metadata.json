@@ -2,7 +2,9 @@
   "objGuid": "DBD974A94FE1FF689F507A240F27617F",
   "displayName": "Radiology Checklist 265",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

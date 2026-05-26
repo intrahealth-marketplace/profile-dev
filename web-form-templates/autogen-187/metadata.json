@@ -2,7 +2,11 @@
   "objGuid": "3FB8C817CFFCECA179ACFFD58DE77D9D",
   "displayName": "Oncology Consent 187",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "72C318BCC71E8F83A8BC8578FA905AA0",
   "displayName": "Gastroenterology Screening 336",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

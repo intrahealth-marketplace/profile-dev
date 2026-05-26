@@ -2,7 +2,9 @@
   "objGuid": "EA8FCB1FA7AF2B3B5624E53544D40850",
   "displayName": "Urology Assessment 470",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

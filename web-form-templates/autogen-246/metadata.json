@@ -2,7 +2,9 @@
   "objGuid": "88B1E4DDB54568BA3C8A1658B0B2447E",
   "displayName": "Gastroenterology Order 246",
   "language": "fr",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

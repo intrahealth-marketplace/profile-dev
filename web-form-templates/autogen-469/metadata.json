@@ -2,7 +2,9 @@
   "objGuid": "634BDDF44AEF46CC721810966B819C03",
   "displayName": "Oncology Consent 469",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

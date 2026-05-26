@@ -2,7 +2,9 @@
   "objGuid": "54F4F57E9777D85BBB29EBC763527495",
   "displayName": "Urology Screening 111",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

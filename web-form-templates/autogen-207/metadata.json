@@ -2,7 +2,9 @@
   "objGuid": "210D17BB15320F678AE337FB7EC78573",
   "displayName": "Ophthalmology Assessment 207",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "D7ADC0AB7C814D9C067C9B052BC987E3",
   "displayName": "Dermatology Order 218",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

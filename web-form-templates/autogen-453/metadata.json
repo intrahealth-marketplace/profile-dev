@@ -2,7 +2,9 @@
   "objGuid": "A5D34A37148673DB172BF3C24D5601AA",
   "displayName": "Gynecology Survey 453",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

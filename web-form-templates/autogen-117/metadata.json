@@ -2,7 +2,9 @@
   "objGuid": "C638FF0B26AC252773436C6238E0EE15",
   "displayName": "Neurology Authorization 117",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "FBEE10312E436660739D66B8C0BB0B03",
   "displayName": "Cardiology Discharge 407",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

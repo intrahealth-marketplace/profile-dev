@@ -2,7 +2,9 @@
   "objGuid": "D57DF1746F7A2875D68F8BA5BFE3AB91",
   "displayName": "ENT Follow-up 414",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

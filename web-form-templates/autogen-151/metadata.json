@@ -2,7 +2,11 @@
   "objGuid": "45436196EBE189AB1F21EB420617B463",
   "displayName": "Endocrinology Follow-up 151",
   "language": "fr",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

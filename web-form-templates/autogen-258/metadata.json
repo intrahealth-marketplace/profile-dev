@@ -2,7 +2,9 @@
   "objGuid": "F2B39EBC94AB3ACCCFC7F39080B9CA10",
   "displayName": "Cardiology Checklist 258",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

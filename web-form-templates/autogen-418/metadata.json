@@ -2,7 +2,11 @@
   "objGuid": "579CF43FB1A847108E876E56E543AE60",
   "displayName": "Family Practice Consent 418",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

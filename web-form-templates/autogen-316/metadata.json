@@ -2,7 +2,9 @@
   "objGuid": "D5CF235CAB110C4B4882CB727217B1C1",
   "displayName": "Urology Screening 316",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

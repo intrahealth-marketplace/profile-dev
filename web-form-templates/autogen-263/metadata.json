@@ -2,7 +2,9 @@
   "objGuid": "5C8AC9BB93C60B3441410FB7D6E18B23",
   "displayName": "Cardiology Screening 263",
   "language": "fr",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

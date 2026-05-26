@@ -2,7 +2,9 @@
   "objGuid": "67490A63E49C480DBE63AC6000F6BA78",
   "displayName": "Urology Examination 337",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

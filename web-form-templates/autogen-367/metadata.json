@@ -2,7 +2,9 @@
   "objGuid": "51C75C9FDE8C48BA292C9A878790AA23",
   "displayName": "Radiology Authorization 367",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

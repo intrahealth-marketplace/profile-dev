@@ -2,7 +2,9 @@
   "objGuid": "C6549DEB33338A8120BF6EBE781267E5",
   "displayName": "Cardiology Checklist 100",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

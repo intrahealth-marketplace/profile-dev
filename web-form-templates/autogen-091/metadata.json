@@ -2,7 +2,9 @@
   "objGuid": "4610AD51F07A996559BCDD4E69E0222D",
   "displayName": "Cardiology Checklist 91",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

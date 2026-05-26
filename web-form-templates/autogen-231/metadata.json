@@ -2,7 +2,9 @@
   "objGuid": "D92590A7B9D6DF2250AE5F0971A3D9E7",
   "displayName": "Gastroenterology Authorization 231",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

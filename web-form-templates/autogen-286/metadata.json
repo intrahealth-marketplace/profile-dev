@@ -2,7 +2,9 @@
   "objGuid": "61C74FA345E2DD12BF70B666FE2DAE91",
   "displayName": "Ophthalmology Intake 286",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

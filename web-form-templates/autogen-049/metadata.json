@@ -2,7 +2,11 @@
   "objGuid": "1E0BE8225D533F0B47BF7B5802DB20F5",
   "displayName": "Gynecology Authorization 49",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

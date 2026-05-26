@@ -2,7 +2,9 @@
   "objGuid": "CD6FAAA8EB807985D0C7D1E34DB96300",
   "displayName": "Orthopedics Checklist 271",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

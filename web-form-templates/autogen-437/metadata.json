@@ -2,7 +2,11 @@
   "objGuid": "DD1ADD843AAF1AD5149D6F8DE84E75E4",
   "displayName": "Gynecology Discharge 437",
   "language": "fr",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

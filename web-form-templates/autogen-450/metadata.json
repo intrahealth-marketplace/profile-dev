@@ -2,7 +2,9 @@
   "objGuid": "03934DA5ACB168CE6C06DC9F5B1A6E89",
   "displayName": "Urology Screening 450",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

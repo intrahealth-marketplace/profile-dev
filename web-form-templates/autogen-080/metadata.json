@@ -2,7 +2,9 @@
   "objGuid": "37BB7EE897D1ABA8A8101495DEB9E3D6",
   "displayName": "Orthopedics Survey 80",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

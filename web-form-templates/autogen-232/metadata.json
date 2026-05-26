@@ -2,7 +2,9 @@
   "objGuid": "A4C7BC08F5E42E2DA913FD4CE7956516",
   "displayName": "Neurology Examination 232",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,11 @@
   "objGuid": "4B62A6181496B01B8C0F45B615B38C38",
   "displayName": "Family Practice Follow-up 61",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,11 @@
   "objGuid": "89606813763D32FBD8A364DD61A6BEFD",
   "displayName": "Neurology Authorization 449",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

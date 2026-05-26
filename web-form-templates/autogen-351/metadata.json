@@ -2,7 +2,9 @@
   "objGuid": "96D9AD939F3AFFC65BA2292538AF66B1",
   "displayName": "Neurology Examination 351",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

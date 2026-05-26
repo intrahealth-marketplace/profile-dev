@@ -2,7 +2,9 @@
   "objGuid": "B83D7BAFC4D7256BBA05049241DDC111",
   "displayName": "Radiology Survey 305",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

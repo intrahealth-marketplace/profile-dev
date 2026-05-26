@@ -2,7 +2,9 @@
   "objGuid": "9BE73679EE2C48659CFF52B8BEB78C91",
   "displayName": "Pediatrics Questionnaire 19",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

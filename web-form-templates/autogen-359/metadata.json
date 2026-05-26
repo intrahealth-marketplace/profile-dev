@@ -2,7 +2,9 @@
   "objGuid": "E0653C73667AC99623A5E0AC01084883",
   "displayName": "Pediatrics Examination 359",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

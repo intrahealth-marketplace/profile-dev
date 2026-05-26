@@ -2,7 +2,9 @@
   "objGuid": "CBFB57B09E5152360CE7A3C26809AB5F",
   "displayName": "Pediatrics History 59",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "5AFC1E63874DF65AA03BD4BF368885A2",
   "displayName": "Radiology Assessment 208",
   "language": "fr",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,11 @@
   "objGuid": "0FC9D0B2070788B8A118BE03AF0BC051",
   "displayName": "Cardiology Follow-up 259",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

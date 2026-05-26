@@ -2,7 +2,9 @@
   "objGuid": "24F2431BDAE9FAE86E45B29AC57B561E",
   "displayName": "Gastroenterology Screening 71",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

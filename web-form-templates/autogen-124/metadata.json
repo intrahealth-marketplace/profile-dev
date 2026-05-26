@@ -2,7 +2,9 @@
   "objGuid": "4A59D8754123A461D8D26790FCB88C87",
   "displayName": "Pediatrics Consent 124",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

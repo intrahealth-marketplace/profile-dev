@@ -2,7 +2,9 @@
   "objGuid": "CEC7A54238C0E2C9FD78F79C925A9E9F",
   "displayName": "ENT Screening 330",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

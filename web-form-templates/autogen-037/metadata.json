@@ -2,7 +2,9 @@
   "objGuid": "8D86A31A7A265873E120551A084750BF",
   "displayName": "Radiology Questionnaire 37",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

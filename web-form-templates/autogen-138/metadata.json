@@ -2,7 +2,9 @@
   "objGuid": "F7B0B7F15046BDE7D4DFA41948A3EF6A",
   "displayName": "Gynecology Authorization 138",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

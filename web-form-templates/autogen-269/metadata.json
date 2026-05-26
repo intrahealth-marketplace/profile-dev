@@ -2,7 +2,9 @@
   "objGuid": "7EA3F3504A1BD4FD959112F21738A5B0",
   "displayName": "Orthopedics Checklist 269",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

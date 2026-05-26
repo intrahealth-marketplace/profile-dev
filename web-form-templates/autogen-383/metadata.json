@@ -2,7 +2,9 @@
   "objGuid": "BB562FD18876B6D2469C8E9E94665520",
   "displayName": "Gastroenterology History 383",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

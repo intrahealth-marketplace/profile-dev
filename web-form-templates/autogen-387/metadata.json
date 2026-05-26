@@ -2,7 +2,9 @@
   "objGuid": "C5B155CC70AC4FAAEC2774B2488FDF28",
   "displayName": "Cardiology Consent 387",
   "language": "fr",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

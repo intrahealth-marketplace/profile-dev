@@ -2,7 +2,9 @@
   "objGuid": "06317C13F8CFB92DBA2A6AAA637AE258",
   "displayName": "Ophthalmology Authorization 275",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

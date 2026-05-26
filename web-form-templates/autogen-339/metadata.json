@@ -2,7 +2,9 @@
   "objGuid": "668511499D1E8B64319B2FCEC5DA8B7E",
   "displayName": "Pediatrics Questionnaire 339",
   "language": "fr",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

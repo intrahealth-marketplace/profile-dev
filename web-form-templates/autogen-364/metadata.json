@@ -2,7 +2,9 @@
   "objGuid": "686F1B465682695A2A2440E4C7F13DB7",
   "displayName": "Endocrinology Checklist 364",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

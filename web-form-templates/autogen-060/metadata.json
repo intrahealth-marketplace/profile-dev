@@ -2,7 +2,9 @@
   "objGuid": "E284B0CF69841214A8457BBFEA58BDF2",
   "displayName": "Gynecology History 60",
   "language": "fr",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "B64A0A3363DC083DC7E1D29AFB9BC82D",
   "displayName": "Orthopedics Checklist 257",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

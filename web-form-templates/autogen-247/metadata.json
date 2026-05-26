@@ -2,7 +2,11 @@
   "objGuid": "4CBAFE6036BB9567DFACB06F565CFF0C",
   "displayName": "Urology Order 247",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

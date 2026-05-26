@@ -2,7 +2,9 @@
   "objGuid": "107658B4B868CD1AFECB5F6F1B543025",
   "displayName": "Pediatrics History 181",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "C5B0B915DFD5D41DD5803882BA96844C",
   "displayName": "Family Practice Checklist 140",
   "language": "fr",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

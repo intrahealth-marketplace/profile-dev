@@ -2,7 +2,9 @@
   "objGuid": "A3158D323FE36001F521AFD4A46557BE",
   "displayName": "ENT Examination 233",
   "language": "fr",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

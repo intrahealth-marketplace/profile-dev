@@ -2,7 +2,9 @@
   "objGuid": "390A9612AD5BA20D90AEBFF6BA661915",
   "displayName": "Gastroenterology Examination 222",
   "language": "en",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

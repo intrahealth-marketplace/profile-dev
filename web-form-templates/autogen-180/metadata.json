@@ -2,7 +2,9 @@
   "objGuid": "15241BAE42DF84D3F7298C130BBF5AE6",
   "displayName": "Gynecology Order 180",
   "language": "fr",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

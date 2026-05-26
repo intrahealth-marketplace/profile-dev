@@ -2,7 +2,9 @@
   "objGuid": "15B1B7192F7C5147D8BDF2EFDBB48635",
   "displayName": "Gastroenterology Intake 122",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

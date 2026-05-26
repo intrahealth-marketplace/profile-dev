@@ -2,7 +2,9 @@
   "objGuid": "EFAA6AA978B3870CB40D1EE5B8F0A8E7",
   "displayName": "Neurology Consent 156",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

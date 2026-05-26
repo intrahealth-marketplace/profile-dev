@@ -2,7 +2,11 @@
   "objGuid": "FC4C9262F09C4D92FE9DE5DC1E15CAB8",
   "displayName": "Pediatrics Report 475",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

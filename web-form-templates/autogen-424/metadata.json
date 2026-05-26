@@ -2,7 +2,9 @@
   "objGuid": "82A72FE7A0F361E9437B0129033B1E5C",
   "displayName": "Ophthalmology Questionnaire 424",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,11 @@
   "objGuid": "6220B279400E8B5C53A586B6A6172EAA",
   "displayName": "Pediatrics Intake 427",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

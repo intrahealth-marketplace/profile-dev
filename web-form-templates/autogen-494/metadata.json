@@ -2,7 +2,9 @@
   "objGuid": "B41929065220451665A0180E86F89144",
   "displayName": "Endocrinology Assessment 494",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

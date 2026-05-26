@@ -2,7 +2,9 @@
   "objGuid": "F676F104A85C78A6D5F391CA40C8C54F",
   "displayName": "Neurology History 7",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

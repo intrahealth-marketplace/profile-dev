@@ -2,7 +2,9 @@
   "objGuid": "FB042139792F3616A5C90B52368D1D8C",
   "displayName": "Urology Follow-up 152",
   "language": "fr",
-  "healthRegion": "NL",
+  "jurisdictions": [
+    "CA-NL"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

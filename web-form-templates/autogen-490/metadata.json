@@ -2,7 +2,9 @@
   "objGuid": "141EBBE7BFA9AEC24EE8834774F3C1C1",
   "displayName": "Ophthalmology Survey 490",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

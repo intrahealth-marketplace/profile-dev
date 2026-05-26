@@ -2,7 +2,9 @@
   "objGuid": "80A73841144EEBC5BC8674A6D11CA994",
   "displayName": "Radiology Authorization 273",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

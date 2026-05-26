@@ -2,7 +2,9 @@
   "objGuid": "29845273DC7DAB11DB429D88AAEC9906",
   "displayName": "Psychiatry Checklist 75",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "D32D91E6B10A09B8060307586E8FA94B",
   "displayName": "Ophthalmology Examination 228",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "408BF486F76CC5C960B8371024054798",
   "displayName": "Pediatrics Consent 386",
   "language": "fr",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

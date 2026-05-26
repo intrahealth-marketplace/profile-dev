@@ -2,7 +2,9 @@
   "objGuid": "2AF6DA17AF8776D860E82D74CCAD1331",
   "displayName": "Neurology Screening 372",
   "language": "en",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

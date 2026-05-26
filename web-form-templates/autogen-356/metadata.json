@@ -2,7 +2,9 @@
   "objGuid": "1E01078CC34372A4DCEDB39D9FC2455A",
   "displayName": "Gynecology Examination 356",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

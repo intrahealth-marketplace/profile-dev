@@ -2,7 +2,9 @@
   "objGuid": "121E82E0DD9F9DDE00E309DE70C1DC8F",
   "displayName": "Ophthalmology Discharge 408",
   "language": "fr",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

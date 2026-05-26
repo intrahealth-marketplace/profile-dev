@@ -2,7 +2,11 @@
   "objGuid": "7B5110A69E14635E90A3BE05BD194D48",
   "displayName": "Family Practice Order 226",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

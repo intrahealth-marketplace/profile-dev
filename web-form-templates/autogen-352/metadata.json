@@ -2,7 +2,9 @@
   "objGuid": "F174644EC38667979B089421B2C2E335",
   "displayName": "Family Practice Intake 352",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

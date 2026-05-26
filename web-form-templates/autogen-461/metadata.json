@@ -2,7 +2,9 @@
   "objGuid": "79E93D978E7B605335197EFC34EDBCFA",
   "displayName": "Psychiatry Follow-up 461",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

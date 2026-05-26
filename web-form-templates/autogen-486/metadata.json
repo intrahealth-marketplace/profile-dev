@@ -2,7 +2,9 @@
   "objGuid": "662194CFDC04F6E30EAC5AE32D4C5FCB",
   "displayName": "Radiology Report 486",
   "language": "fr",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

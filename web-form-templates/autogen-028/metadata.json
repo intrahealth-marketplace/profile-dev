@@ -2,7 +2,9 @@
   "objGuid": "4E49477701644D17BB5A5388BC0D0E6A",
   "displayName": "Pediatrics Survey 28",
   "language": "fr",
-  "healthRegion": "BC",
+  "jurisdictions": [
+    "CA-BC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

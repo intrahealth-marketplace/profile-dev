@@ -2,7 +2,9 @@
   "objGuid": "395D919216AEC8B5C4BA96392EC8CE37",
   "displayName": "Family Practice Follow-up 242",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

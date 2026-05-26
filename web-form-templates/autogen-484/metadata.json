@@ -2,7 +2,9 @@
   "objGuid": "1A1954EF6C266B499E097D8FCF62DFD7",
   "displayName": "ENT Referral 484",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

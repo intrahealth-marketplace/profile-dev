@@ -2,7 +2,9 @@
   "objGuid": "C055B8218F04A0C187C255A33B4B1937",
   "displayName": "Oncology Assessment 108",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

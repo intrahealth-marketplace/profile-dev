@@ -2,7 +2,11 @@
   "objGuid": "2CA2AF4D80F4B0F317377B03E453E74B",
   "displayName": "Pediatrics Discharge 8",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

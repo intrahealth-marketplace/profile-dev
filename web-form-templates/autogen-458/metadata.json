@@ -2,7 +2,9 @@
   "objGuid": "C2532B40363F0FB93FA6B93013BFF7D2",
   "displayName": "Urology Authorization 458",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

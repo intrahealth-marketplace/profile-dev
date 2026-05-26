@@ -2,7 +2,9 @@
   "objGuid": "B0E5C47772443F105A5A941180F1C048",
   "displayName": "Gastroenterology Follow-up 163",
   "language": "fr",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

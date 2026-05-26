@@ -2,7 +2,9 @@
   "objGuid": "AB0D599AAF164393543DE37975BB3965",
   "displayName": "Urology Assessment 176",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

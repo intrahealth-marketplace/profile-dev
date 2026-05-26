@@ -2,7 +2,9 @@
   "objGuid": "8B03D0A5F9E447761C1C872D4C8FD7C1",
   "displayName": "Neurology Report 157",
   "language": "en",
-  "healthRegion": "SK",
+  "jurisdictions": [
+    "CA-SK"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

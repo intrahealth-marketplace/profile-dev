@@ -2,7 +2,9 @@
   "objGuid": "18E9DE0402D774044962B49F6EF974A0",
   "displayName": "Dermatology Referral 411",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,11 @@
   "objGuid": "890DA580959694828C4C220F27AFCE8C",
   "displayName": "Dermatology Survey 421",
   "language": "fr",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

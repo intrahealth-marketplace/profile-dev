@@ -2,7 +2,9 @@
   "objGuid": "E06D41D34417138AB0117D1D1CE8EC83",
   "displayName": "Gastroenterology Referral 167",
   "language": "en",
-  "healthRegion": "NB",
+  "jurisdictions": [
+    "CA-NB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "25CAC8A594ED35B6CB15EEA8619B0FCC",
   "displayName": "ENT Consent 230",
   "language": "en",
-  "healthRegion": "MB",
+  "jurisdictions": [
+    "CA-MB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

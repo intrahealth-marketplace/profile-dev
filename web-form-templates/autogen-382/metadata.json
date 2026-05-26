@@ -2,7 +2,11 @@
   "objGuid": "5A1D513A7514E4D8FA4FAD5054C1EABA",
   "displayName": "Orthopedics Assessment 382",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

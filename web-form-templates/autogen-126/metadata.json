@@ -2,7 +2,9 @@
   "objGuid": "D17AA580B2C2FB133E6865C901B3EBE2",
   "displayName": "Gastroenterology Discharge 126",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

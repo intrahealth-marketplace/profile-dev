@@ -2,7 +2,9 @@
   "objGuid": "863FBCAE6F0F977EE97C33438AB12C1C",
   "displayName": "Orthopedics Questionnaire 422",
   "language": "en",
-  "healthRegion": "NS",
+  "jurisdictions": [
+    "CA-NS"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

@@ -2,7 +2,9 @@
   "objGuid": "DFEB49FD4A87848685C3E7436BECB84E",
   "displayName": "ENT Authorization 10",
   "language": "en",
-  "healthRegion": "AB",
+  "jurisdictions": [
+    "CA-AB"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

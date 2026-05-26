@@ -2,7 +2,9 @@
   "objGuid": "973DA3A0E167785C0A449C6AF6ECCB77",
   "displayName": "Psychiatry Discharge 375",
   "language": "en",
-  "healthRegion": "ON",
+  "jurisdictions": [
+    "CA-ON"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }

@@ -2,7 +2,9 @@
   "objGuid": "B626B9B6DFEF858DD309739E34B0DF73",
   "displayName": "Pediatrics Screening 78",
   "language": "en",
-  "healthRegion": "QC",
+  "jurisdictions": [
+    "CA-QC"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

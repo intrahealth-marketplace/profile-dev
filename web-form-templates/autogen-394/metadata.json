@@ -2,7 +2,11 @@
   "objGuid": "20F54A07A88DCC8CA51B25BE57F8962B",
   "displayName": "Radiology Order 394",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": "preview.png"
 }

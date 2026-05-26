@@ -2,7 +2,11 @@
   "objGuid": "9DE79CB63F0545E36DB48D189F213F78",
   "displayName": "Gastroenterology Order 107",
   "language": "en",
-  "healthRegion": null,
+  "jurisdictions": [
+    "CA",
+    "NZ",
+    "AU"
+  ],
   "modified": "2026-05-15T00:00:00Z",
   "previewImageFilename": null
 }
