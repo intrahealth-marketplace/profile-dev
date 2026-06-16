@@ -4,7 +4,6 @@
 // Each template lives in its own folder under web-form-templates/ and contains:
 //   - metadata.json : display fields published in the catalog (hand-edited by contributors)
 //   - template.json : the importable export bundle (not read here)
-//   - <preview>.png : optional preview image referenced by metadata.previewImageFilename
 //
 // The catalog is the single file the backend reads (see Web Form Template Import/Export
 // PRD, Marketplace Catalogue section), so this script is the only writer of catalog.json.
@@ -92,16 +91,6 @@ function buildItem(folder) {
     fail(folder, `"modified" is not a valid timestamp ("${meta.modified}")`);
   }
 
-  // previewImageFilename: optional; if set, the file must exist in the folder.
-  const previewImageFilename = meta.previewImageFilename ?? null;
-  if (previewImageFilename !== null) {
-    if (typeof previewImageFilename !== 'string') {
-      fail(folder, '"previewImageFilename" must be a string or null');
-    } else if (!existsSync(join(folderPath, previewImageFilename))) {
-      fail(folder, `previewImageFilename "${previewImageFilename}" does not exist in the folder`);
-    }
-  }
-
   // template.json must parse.
   try {
     JSON.parse(readFileSync(templatePath, 'utf8'));
@@ -117,7 +106,6 @@ function buildItem(folder) {
     language: meta.language,
     jurisdictions: meta.jurisdictions,
     modified: meta.modified,
-    previewImageFilename,
   };
 }
 
