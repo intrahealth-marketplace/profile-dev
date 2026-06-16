@@ -2,19 +2,6 @@
   "schemaVersion": 1,
   "items": [
     {
-      "folder": "autopopulate-test",
-      "objGuid": "30C23589F96B47079EE2B3AD80280D14",
-      "displayName": "Autopopulate Test",
-      "language": "en",
-      "jurisdictions": [
-        "CA",
-        "NZ",
-        "AU"
-      ],
-      "modified": "2026-05-15T23:18:05Z",
-      "previewImageFilename": null
-    },
-    {
       "folder": "autogen-001",
       "objGuid": "5EE33802BECE2CBB43C9A3379B0B4B7B",
       "displayName": "Urology Consent 1",
@@ -5635,35 +5622,22 @@
       "previewImageFilename": "preview.png"
     },
     {
+      "folder": "autopopulate-test",
+      "objGuid": "30C23589F96B47079EE2B3AD80280D14",
+      "displayName": "Autopopulate Test",
+      "language": "en",
+      "jurisdictions": [
+        "CA",
+        "NZ",
+        "AU"
+      ],
+      "modified": "2026-05-15T23:18:05Z",
+      "previewImageFilename": null
+    },
+    {
       "folder": "gad-7-anxiety-screening",
       "objGuid": "A1B2C3D4E5F64A009011223344556677",
       "displayName": "GAD-7 Anxiety Screening",
-      "language": "en",
-      "jurisdictions": [
-        "CA",
-        "NZ",
-        "AU"
-      ],
-      "modified": "2026-05-15T12:00:00Z",
-      "previewImageFilename": null
-    },
-    {
-      "folder": "patient-intake-form",
-      "objGuid": "B2C3D4E5F6A74B001122334455667788",
-      "displayName": "Patient Intake Form",
-      "language": "en",
-      "jurisdictions": [
-        "CA",
-        "NZ",
-        "AU"
-      ],
-      "modified": "2026-05-15T12:00:00Z",
-      "previewImageFilename": null
-    },
-    {
-      "folder": "vital-signs-check-in",
-      "objGuid": "C3D4E5F6A7B84C002233445566778899",
-      "displayName": "Vital Signs Check-in",
       "language": "en",
       "jurisdictions": [
         "CA",
@@ -5687,9 +5661,35 @@
       "previewImageFilename": null
     },
     {
+      "folder": "patient-intake-form",
+      "objGuid": "B2C3D4E5F6A74B001122334455667788",
+      "displayName": "Patient Intake Form",
+      "language": "en",
+      "jurisdictions": [
+        "CA",
+        "NZ",
+        "AU"
+      ],
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
       "folder": "telehealth-consent",
       "objGuid": "E5F6A7B8C9DA4E0044556677889900AA",
       "displayName": "Telehealth Consent",
+      "language": "en",
+      "jurisdictions": [
+        "CA",
+        "NZ",
+        "AU"
+      ],
+      "modified": "2026-05-15T12:00:00Z",
+      "previewImageFilename": null
+    },
+    {
+      "folder": "vital-signs-check-in",
+      "objGuid": "C3D4E5F6A7B84C002233445566778899",
+      "displayName": "Vital Signs Check-in",
       "language": "en",
       "jurisdictions": [
         "CA",

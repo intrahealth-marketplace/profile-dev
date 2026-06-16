@@ -1,0 +1,60 @@
+name: Build Web Form Catalog
+
+# Regenerates web-form-templates/catalog.json from each template's metadata.json
+# whenever a template is added or changed on main. Contributors edit only their own
+# template folder; this workflow keeps the aggregate catalog.json in sync.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web-form-templates/**'
+      # Exclude the generated file so the bot's own commit does not re-trigger this workflow.
+      - '!web-form-templates/catalog.json'
+  workflow_dispatch:
+
+# Serialize runs so concurrent pushes to main cannot race on the catalog commit.
+concurrency:
+  group: build-web-form-catalog
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Validates every metadata.json (required fields, jurisdiction tags, preview
+      # image presence, unique ObjGuid) and rewrites catalog.json. A validation
+      # failure fails the run and leaves catalog.json untouched.
+      - name: Regenerate catalog
+        run: node scripts/build-web-form-catalog.mjs
+
+      - name: Commit catalog if changed
+        run: |
+          if [ -z "$(git status --porcelain web-form-templates/catalog.json)" ]; then
+            echo "catalog.json already up to date; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web-form-templates/catalog.json
+          git commit -m "chore: regenerate web-form-templates/catalog.json [skip ci]"
+          # Rebase onto any human push that landed during this run, then push.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed catalog update."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt); rebasing onto latest main and retrying."
+            git pull --rebase origin main
+          done
+          echo "Failed to push catalog update after 3 attempts." >&2
+          exit 1
